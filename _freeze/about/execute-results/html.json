@@ -1,0 +1,14 @@
+{
+  "hash": "2f35aed1c74497e50e2ad8eb5356e4bd",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Resume Fall 2023\nexerpt: My current Resume\nexecute: \n  freeze: true\nengine: knitr\nresources:\n  - \"Resume.pdf\"\ncv:\n  pdf:\"Resume.pdf\"\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website-demo",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Abstract: This case study focuses on Flores del Sol, a 150-acre City of Fort Collins Natural Areas property leased and managed by Poudre Valley Community Farms (PVCF). The property facilitates multiple different producers and is centered around the application of conservation agricultural practices. This case study includes background on Poudre Valley Community Farms and Flores del Sol (FDS), a literature review covering conservation agriculture, the importance of bird biodiversity, water quality, soil health, citizen science, and management practices for small-scale agriculture. Given the limited research on these specific interactions in localized agriculture, this case study will serve as a suggested framework for future monitoring and conservation efforts in similar systems. Deliverables to Poudre Valley Community farms include bird monitoring protocols specific to the site, general soil health monitoring protocols, and suggestions for agricultural water use.\nLink to Soil Recommendations\nLink to Story Map"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html#poudre-valley-community-farms",
+    "href": "projects.html#poudre-valley-community-farms",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Abstract: This case study focuses on Flores del Sol, a 150-acre City of Fort Collins Natural Areas property leased and managed by Poudre Valley Community Farms (PVCF). The property facilitates multiple different producers and is centered around the application of conservation agricultural practices. This case study includes background on Poudre Valley Community Farms and Flores del Sol (FDS), a literature review covering conservation agriculture, the importance of bird biodiversity, water quality, soil health, citizen science, and management practices for small-scale agriculture. Given the limited research on these specific interactions in localized agriculture, this case study will serve as a suggested framework for future monitoring and conservation efforts in similar systems. Deliverables to Poudre Valley Community farms include bird monitoring protocols specific to the site, general soil health monitoring protocols, and suggestions for agricultural water use.\nLink to Soil Recommendations\nLink to Story Map"
+  },
+  {
+    "objectID": "projects.html#life-cycle-assessment",
+    "href": "projects.html#life-cycle-assessment",
+    "title": "Projects",
+    "section": "Life Cycle Assessment",
+    "text": "Life Cycle Assessment\n\nLife Cycle Assessment of Stainless-Steel Reusable Water Bottles vs. Plastic Reusable Water Bottles\nGoal of the Study\nWe are conducted a Life Cycle Assessment (LCA) to compare a reusable stainless-steel water bottle to a reusable plastic water bottle. We compared the materials used in Hydro Flask and Nalgene. This study was conducted for an ESS-555 class assignment at Colorado State University. We intend to use this study to meet all of the requirements for our class assignment. The audience for this study is our professor and other classmates.\n\nResults\n\nOne 32 oz reusable plastic water bottle has a greater environmental impact (as far as Global Warming Potential) than a stainless steel one during the cradle-to-gate phase.\nWe acknowledge that these results might differ if we include the use and disposal phases of their life cycles, which introduces more uncertainty."
+  },
+  {
+    "objectID": "facts.html",
+    "href": "facts.html",
+    "title": "Fun Facts",
+    "section": "",
+    "text": "Some of my interests include:\n\nPlaying the piano\nHiking/Being out in nature\nReading\nCrafting"
+  },
+  {
+    "objectID": "facts.html#interests",
+    "href": "facts.html#interests",
+    "title": "Fun Facts",
+    "section": "",
+    "text": "Some of my interests include:\n\nPlaying the piano\nHiking/Being out in nature\nReading\nCrafting"
+  },
+  {
+    "objectID": "facts.html#meet-the-pets",
+    "href": "facts.html#meet-the-pets",
+    "title": "Fun Facts",
+    "section": "Meet the pets!",
+    "text": "Meet the pets!\nIn total, I have seven pets! I have five Jumping Spiders (family Salticidae) and two Blue Death-Feigning Beetles (Asbolus verrucosus).\n\nBeetles\nNames: Bobby and Otis\n\n\n\nLeft to right: Bobby and Otis\n\n\n\n\nJumping Spiders\n\nMuffin, Nugget, and Wilbur not pictured below.\n\n\n\nKetchup ( P. cardinalis)\n\n\n\n\n\nGuy (Phidippus audax.) chilling out in his hammock"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ashlee Patacsil-Hardin",
+    "section": "",
+    "text": "Welcome!\nI am Ashlee Patacsil-Hardin, a Master’s student studying Ecosystem Science and Sustainability with a concentration in Carbon Management. Throughout my education, I have dedicated myself to climate change, carbon management, and sustainability. On this website, I offer a glimpse into my resume, current and past classes, and ongoing interests.\nMy interests span different academic disciplines, from entomology to data science. I am particularly passionate about being outdoors and learning. Additionally, I have been involved in important climate change conferences (Conference of the Parties 27)\nNot only am I a scholar, but I am also a Graduate Teaching Assistant. Over the past year, I have had the honor and opportunity to work with over 200+ undergraduate students, passing on my knowledge and expertise to the next generation.\nPlease feel free to contact me through email if you have any questions or would like to discuss potential projects."
   }
 ]

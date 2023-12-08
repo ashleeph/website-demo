@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "website-demo"
+  title: "Ashlee Patacsil-Hardin"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: About
       - about.qmd
+      - projects.qmd
+      - facts.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

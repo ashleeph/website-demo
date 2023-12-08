@@ -1,0 +1,43 @@
+---
+title: "Projects"
+about: 
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ashleeph
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/apatacsilhardin/
+    - icon: envelope
+      text: Email
+      href: "mailto:ajphardin33@gmail.com"  
+---
+
+## Poudre Valley Community Farms
+
+![](download.jpg)
+
+#### *Ecological Monitoring for Small-Scale Conservation Agriculture: A Case Study of Flores del Sol in Fort Collins, Colorado*
+
+Abstract: This case study focuses on Flores del Sol, a 150-acre City of Fort Collins Natural Areas property leased and managed by Poudre Valley Community Farms (PVCF). The property facilitates multiple different producers and is centered around the application of conservation agricultural practices. This case study includes background on Poudre Valley Community Farms and Flores del Sol (FDS), a literature review covering conservation agriculture, the importance of bird biodiversity, water quality, soil health, citizen science, and management practices for small-scale agriculture. Given the limited research on these specific interactions in localized agriculture, this case study will serve as a suggested framework for future monitoring and conservation efforts in similar systems. Deliverables to Poudre Valley Community farms include bird monitoring protocols specific to the site, general soil health monitoring protocols, and suggestions for agricultural water use.
+
+[Link to Soil Recommendations](https://docs.google.com/document/d/1MaV5ga4QcxUlu3ld3mBddZxxKRRQEDulj-pzHYHkSxM/edit)
+
+[Link to Story Map](https://storymaps.arcgis.com/stories/90ca93792c94458589a544f3fb37b41b "ArcGIS")
+
+## Life Cycle Assessment
+
+#### *Life Cycle Assessment of Stainless-Steel Reusable Water Bottles vs. Plastic Reusable Water Bottles*
+
+Goal of the Study
+
+We are conducted a Life Cycle Assessment (LCA) to compare a reusable stainless-steel water bottle to a reusable plastic water bottle. We compared the materials used in Hydro Flask and Nalgene. This study was conducted for an ESS-555 class assignment at Colorado State University. We intend to use this study to meet all of the requirements for our class assignment. The audience for this study is our professor and other classmates.
+
+![](images/CO2-01.png)
+
+Results
+
+-   One 32 oz reusable plastic water bottle has a greater environmental impact (as far as Global Warming Potential) than a stainless steel one during the cradle-to-gate phase.
+
+-   We acknowledge that these results might differ if we include the use and disposal phases of their life cycles, which introduces more uncertainty.

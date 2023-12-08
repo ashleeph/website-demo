@@ -1,11 +1,31 @@
 ---
-title: "website-demo"
+title: "Ashlee Patacsil-Hardin"
+image: Professional.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ashleeph
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/apatacsilhardin/
+    - icon: envelope
+      text: Email
+      href: "mailto:ajphardin33@gmail.com"  
 ---
 
-This is a Quarto website.
+::: {#about-block}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome!
 
-```{r}
-1 + 1
-```
+I am Ashlee Patacsil-Hardin, a Master's student studying Ecosystem Science and Sustainability with a concentration in Carbon Management. Throughout my education, I have dedicated myself to climate change, carbon management, and sustainability. On this website, I offer a glimpse into my resume, current and past classes, and ongoing interests.
+
+My interests span different academic disciplines, from entomology to data science. I am particularly passionate about being outdoors and learning. Additionally, I have been involved in important climate change conferences (Conference of the Parties 27)
+
+Not only am I a scholar, but I am also a Graduate Teaching Assistant. Over the past year, I have had the honor and opportunity to work with over 200+ undergraduate students, passing on my knowledge and expertise to the next generation.
+
+Please feel free to [contact me](mailto:ajphardin33@gmail.com) through email if you have any questions or would like to discuss potential projects.

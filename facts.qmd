@@ -1,0 +1,35 @@
+---
+title: "Fun Facts"
+about: 
+  template: marquee
+---
+
+## Interests
+
+Some of my interests include:
+
+-   Playing the piano
+
+-   Hiking/Being out in nature
+
+-   Reading
+
+-   Crafting
+
+## Meet the pets!
+
+In total, I have seven pets! I have five Jumping Spiders (family *Salticidae***)** and two Blue Death-Feigning Beetles (Asbolus *verrucosus*).
+
+### Beetles
+
+Names: Bobby and Otis
+
+![Left to right: Bobby and Otis](beetles.jpg){width="216"}
+
+### Jumping Spiders
+
+###### *Muffin, Nugget, and Wilbur not pictured below.*
+
+![Ketchup ( P. cardinalis)](ketchup.jpg){width="216"}
+
+![Guy (Phidippus audax.) chilling out in his hammock](guy.jpg){width="216"}

@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Resume"
 ---
 
-About this site
+![](images/cv-1.png)
 
-```{r}
-1 + 1
-```
+![](images/cv-2.png)
